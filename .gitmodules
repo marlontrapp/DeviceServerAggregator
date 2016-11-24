@@ -1,0 +1,9 @@
+[submodule "deviceserver"]
+	path = deviceserver
+	url = https://github.com/marlontrapp/deviceserver.git
+[submodule "echo-module"]
+	path = echo-module
+	url = https://github.com/marlontrapp/echo-module.git
+[submodule "cryptographic-module"]
+	path = cryptographic-module
+	url = https://github.com/marlontrapp/cryptographic-module.git
