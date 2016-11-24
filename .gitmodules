@@ -7,3 +7,6 @@
 [submodule "cryptographic-module"]
 	path = cryptographic-module
 	url = https://github.com/marlontrapp/cryptographic-module.git
+[submodule "deviceserver-api"]
+	path = deviceserver-api
+	url = https://github.com/marlontrapp/deviceserver-api.git
